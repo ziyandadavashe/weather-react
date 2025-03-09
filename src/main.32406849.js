@@ -15598,7 +15598,7 @@
             }),
           });
         {
-          let t = "eac360db5fc86ft86450f3693e73o43f",
+          let t = "ff417f6e1553tb7e790a6334bb9cocff",
             n = `https://api.shecodes.io/weather/v1/forecast?query=${e.city}&key=${t}&units=metric`;
           return (
             _t.get(n).then(function (e) {
@@ -15688,7 +15688,7 @@
                       href: "https://www.shecodes.io/",
                       target: "_blank",
                       rel: "noopener noreferrer",
-                      children: "SheCodes",
+                      children: "Ziyanda Davashe",
                     }),
                     " ",
                     "and is",
